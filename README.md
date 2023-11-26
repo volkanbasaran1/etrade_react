@@ -48,9 +48,6 @@ cd e-ticaret-uygulamasi
 npm install
 npm start
     </code></pre>
-    <p>Uygulama <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> adresinde çalışacaktır.</p>
-    <h2>Lisans</h2>
-    <p>Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için <a href="LICENSE" target="_blank">LICENSE</a> dosyasına bakınız.</p>
 </body>
 </html>
 
